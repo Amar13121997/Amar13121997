@@ -1,6 +1,6 @@
 ![logo](https://github.com/Amar13121997/Amar13121997/blob/main/Green%20Photo%20Technology%20Facebook%20.png)
 <h1 align="center">Hi 👋, I'm Amar Shilvanth</h1>
-<h3 align="center">A passionate Data Scientist from India</h3>
+<h3 align="center">Aspiring  Data Scientist </h3>
 
 <img align="right" alt="coding" width="400" src="https://github.com/Amar13121997/Amar13121997/blob/main/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amar13121997&label=Profile%20views&color=0e75b6&style=flat" alt="amar13121997" /> </p>
