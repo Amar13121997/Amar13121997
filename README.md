@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Amar Shilvanth</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://media4.giphy.com/media/U4ExkAvRpVQGB0NMe0/giphy.gif?cid=ecf05e47j7j99fegd0ydtb1mp3qmnnllkc34rbp3urd8ik20&ep=v1_gifs_related&rid=giphy.gif&ct=g">
+<img align="right" alt="coding" width="400" src="https://github.com/Amar13121997/Amar13121997/blob/main/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amar13121997&label=Profile%20views&color=0e75b6&style=flat" alt="amar13121997" /> </p>
 
