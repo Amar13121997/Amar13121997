@@ -1,3 +1,4 @@
+![logo](https://github.com/Amar13121997/Amar13121997/blob/main/Green%20Photo%20Technology%20Facebook%20.png)
 <h1 align="center">Hi 👋, I'm Amar Shilvanth</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 
